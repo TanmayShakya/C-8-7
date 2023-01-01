@@ -44,7 +44,7 @@ console.log(keyPressed);
 		// upload green ranger
 		new_image = ('gr.png');
 		console.log("g");
-	
+	}
 	if(keyPressed == '89')
 	{
 		block_x =350;
